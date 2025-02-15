@@ -1,16 +1,13 @@
-## Hi there 👋
+# 🌟 Welcome to My GitHub! ✋
 
-<!--
-**spew11/spew11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **GitHub Stats**
 
-Here are some ideas to get you started:
+[![GitHub Stats](http://cpm9662.me:1542/?username=spew11&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Most Used Languages**
+
+![Top Langs](http://cpm9662.me:1542/top-langs/?username=spew11&layout=compact&count_private=true&exclude_repo=2d-game-project,3d-game-project&langs_count=10)  
+
+🏆 **Algorithmic Achievements**
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhbdg)](https://solved.ac/dhbdg/)  
